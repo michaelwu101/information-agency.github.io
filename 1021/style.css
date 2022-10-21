@@ -1,0 +1,42 @@
+body {
+  background-color: hwb(175 25% 17% / 0.842);
+}
+ul {
+  list-style-type: url("123.png");
+}
+ol {
+  list-style-image: url("123.png");
+}
+.red {
+  color: red;
+}
+ul.intro-list li li {
+  color: rgb(241, 232, 232);
+}
+a:visited {
+  color: rgb(255, 255, 255);
+}
+#haha {
+  padding: 9px 5px 9px 5px;
+  border: 10px double royalblue;
+  margin: 10px;
+}
+.div1 {
+  color: crimson;
+  padding: 9px 5px 9px 5px;
+  border: 5px double yellow;
+  margin: 0 auto;
+  width: 50%;
+}
+.fake {
+  background-color: rgb(18, 81, 136);
+  height: 100px;
+}
+.container {
+  background-color: rgb(127, 136, 255);
+  height: 1000px;
+}
+img {
+  position: sticky;
+  top: 0;
+}
