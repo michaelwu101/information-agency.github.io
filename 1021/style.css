@@ -40,3 +40,44 @@ img {
   position: sticky;
   top: 0;
 }
+.container1 {
+  background-color: blue;
+  width: 500px;
+  margin: 0 auto;
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.item {
+  background-color: aqua;
+  width: 100px;
+  font-size: 36px;
+  height: 50px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  color: crimson;
+}
+.item2 {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  font-size: 36px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  color: crimson;
+}
+.item3 {
+  background-color: aqua;
+  height: 200px;
+  width: 100px;
+  font-size: 36px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  color: crimson;
+}
