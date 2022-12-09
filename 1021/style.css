@@ -108,3 +108,11 @@ img {
 .p1 {
   margin-right: auto;
 }
+.btn {
+  color: blue;
+  width: 100px;
+  cursor: pointer;
+}
+.invisible {
+  display: none;
+}
